@@ -1,0 +1,15 @@
+C:\Users\Валентин\Desktop\GeekBrains\HW_GIT\HW_001\bin\Debug\net6.0\HW_001.exe
+C:\Users\Валентин\Desktop\GeekBrains\HW_GIT\HW_001\bin\Debug\net6.0\HW_001.deps.json
+C:\Users\Валентин\Desktop\GeekBrains\HW_GIT\HW_001\bin\Debug\net6.0\HW_001.runtimeconfig.json
+C:\Users\Валентин\Desktop\GeekBrains\HW_GIT\HW_001\bin\Debug\net6.0\HW_001.dll
+C:\Users\Валентин\Desktop\GeekBrains\HW_GIT\HW_001\bin\Debug\net6.0\HW_001.pdb
+C:\Users\Валентин\Desktop\GeekBrains\HW_GIT\HW_001\obj\Debug\net6.0\HW_001.csproj.AssemblyReference.cache
+C:\Users\Валентин\Desktop\GeekBrains\HW_GIT\HW_001\obj\Debug\net6.0\HW_001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Валентин\Desktop\GeekBrains\HW_GIT\HW_001\obj\Debug\net6.0\HW_001.AssemblyInfoInputs.cache
+C:\Users\Валентин\Desktop\GeekBrains\HW_GIT\HW_001\obj\Debug\net6.0\HW_001.AssemblyInfo.cs
+C:\Users\Валентин\Desktop\GeekBrains\HW_GIT\HW_001\obj\Debug\net6.0\HW_001.csproj.CoreCompileInputs.cache
+C:\Users\Валентин\Desktop\GeekBrains\HW_GIT\HW_001\obj\Debug\net6.0\HW_001.dll
+C:\Users\Валентин\Desktop\GeekBrains\HW_GIT\HW_001\obj\Debug\net6.0\refint\HW_001.dll
+C:\Users\Валентин\Desktop\GeekBrains\HW_GIT\HW_001\obj\Debug\net6.0\HW_001.pdb
+C:\Users\Валентин\Desktop\GeekBrains\HW_GIT\HW_001\obj\Debug\net6.0\HW_001.genruntimeconfig.cache
+C:\Users\Валентин\Desktop\GeekBrains\HW_GIT\HW_001\obj\Debug\net6.0\ref\HW_001.dll
